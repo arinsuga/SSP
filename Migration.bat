@@ -1,0 +1,1 @@
+sqlcmd -S PC-PROG\SQLEXPRESS2008 -d master -i Script.sql -E

@@ -1,2 +1,2 @@
 # SSP
-Aplikasi SSP - Windows Form
+Aplikasi SSP
